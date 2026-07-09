@@ -85,15 +85,15 @@ Built interactive dashboards in:
 
 ### Power BI Dashboard
 
-**Page 1 — Overview & Season Trends**
+**Page 1 - Overview & Season Trends**
 - KPI Cards
 - IPL Matches Per Season (2008–2026)
 
-**Page 2 — Team Performance Analysis**
+**Page 2 - Team Performance Analysis**
 - Team Win % — All Time
 - Total Wins by Team — All Time
 
-**Page 3 — Player Performance Analysis**
+**Page 3 - Player Performance Analysis**
 - Top 10 Run Scorers in IPL
 - Top 10 Wicket Takers in IPL
 
