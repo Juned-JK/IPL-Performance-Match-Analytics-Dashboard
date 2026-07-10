@@ -104,11 +104,11 @@ Built interactive dashboards in:
 **Page 5 - Power Hitters Statistics**
 - Power Hitters — Sixes, Fours, Total Runs & Strike Rate Table
 
-**Page 6 — Team Scores & Season Summary**
+**Page 6 - Team Scores & Season Summary**
 - Highest Team Score by Franchise
 - Season-wise Runs & Wickets Summary
 
-**Page 7 — Venue Analysis**
+**Page 7 - Venue Analysis**
 - Most Used IPL Venues
 
 ---
