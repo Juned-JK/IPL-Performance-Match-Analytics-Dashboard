@@ -97,11 +97,11 @@ Built interactive dashboards in:
 - Top 10 Run Scorers in IPL
 - Top 10 Wicket Takers in IPL
 
-**Page 4 — Batting & Bowling Efficiency**
+**Page 4 - Batting & Bowling Efficiency**
 - Highest Strike Rate (Min 100 balls faced)
 - Lowest Economy Rate (Min 100 Balls)
 
-**Page 5 — Power Hitters Statistics**
+**Page 5 - Power Hitters Statistics**
 - Power Hitters — Sixes, Fours, Total Runs & Strike Rate Table
 
 **Page 6 — Team Scores & Season Summary**
